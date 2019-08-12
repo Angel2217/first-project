@@ -1,0 +1,22 @@
+body {
+    font-family: calibri;
+    margin-left: 50px;
+}
+
+table {
+    margin: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    width: 25px;
+    height: 25px;
+    padding: 4px;
+    border: 1px solid black;
+}
+
+h1 {
+    margin-top: 50px;
+}
